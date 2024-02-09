@@ -2,8 +2,6 @@
 
 `git clone https://github.com/KhangDy/StudentManagement.git`
 
-# Run:
-
 `npm start`
 
 # Link host:
