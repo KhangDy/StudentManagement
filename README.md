@@ -1,6 +1,11 @@
 #How to run this?
+
 `git clone https://github.com/KhangDy/StudentManagement.git`
-#Run
+
+#Run:
+
 `npm start`
-#Link host
+
+#Link host:
+
 https://easy-clam-overalls.cyclic.app
